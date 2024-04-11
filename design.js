@@ -1,4 +1,4 @@
-let text = 'Hello, I am typing...';
+let text = 'Hi there!I'm a web developer based in Baguio Province.';
 let index = 0;
 let typingElement = document.getElementById('typing');
 
